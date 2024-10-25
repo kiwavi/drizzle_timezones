@@ -26,6 +26,7 @@ app.post("/user", async (req: Request, res: Response):Promise<any> => {
 	    name,
 	    age,
 	    email,
+	    createdat: new Date()
 	};
 
 	await db.insert(usersTable).values(user);
