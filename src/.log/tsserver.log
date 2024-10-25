@@ -1,0 +1,64 @@
+Info 0    [08:06:45.407] Starting TS Server
+Info 1    [08:06:45.410] Version: 4.8.3
+Info 2    [08:06:45.411] Arguments: /home/munyiri/.nvm/versions/node/v18.19.0/bin/node /home/munyiri/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --useInferredProjectPerProjectRoot --cancellationPipeName /tmp/b689b84fbd1e4bfbc5cf841a6798e509/tscancellation* --logFile /home/munyiri/drizzletest/src/.log/tsserver.log --logVerbosity info --locale en --validateDefaultNpmLocation --useNodeIpc
+Info 3    [08:06:45.411] Platform: linux NodeVersion: 18 CaseSensitive: true
+Info 4    [08:06:45.411] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [08:06:45.422] Format host information updated
+Info 6    [08:06:45.475] Search path: /home/munyiri/drizzletest/src
+Info 7    [08:06:45.476] For info: /home/munyiri/drizzletest/src/index.js :: No config files found.
+Info 8    [08:06:45.485] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [08:06:48.917] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 3417.060456007719ms
+Info 10   [08:06:48.926] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [08:06:48.927] 	Files (243)
+
+Info 12   [08:06:48.927] -----------------------------------------------
+Info 13   [08:06:48.958] AutoImportProviderProject: found 1 root files in 1 dependencies in 12.816222012043 ms
+Info 14   [08:06:48.970] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [08:06:49.009] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 38.70843702554703ms
+Info 16   [08:06:49.009] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [08:06:49.010] 	Files (1)
+
+Info 18   [08:06:49.010] -----------------------------------------------
+Info 19   [08:06:50.714] Search path: /home/munyiri/drizzletest/src
+Info 20   [08:06:50.714] For info: /home/munyiri/drizzletest/src/index.ts :: No config files found.
+Info 21   [08:06:50.715] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 22   [08:06:51.591] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 875.9010019898415ms
+Info 23   [08:06:51.591] Project '/dev/null/inferredProject1*' (Inferred)
+Info 24   [08:06:51.591] 	Files (153)
+
+Info 25   [08:06:51.591] -----------------------------------------------
+Info 26   [08:06:51.591] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 27   [08:06:51.591] 	Files (1)
+
+Info 28   [08:06:51.591] -----------------------------------------------
+Info 29   [08:06:51.594] Search path: /home/munyiri/drizzletest/src
+Info 30   [08:06:51.594] For info: /home/munyiri/drizzletest/src/index.ts :: No config files found.
+Info 31   [08:06:51.594] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 32   [08:06:51.595] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false structureIsReused:: Not Elapsed: 0.6837130188941956ms
+Info 33   [08:06:51.595] Project '/dev/null/inferredProject1*' (Inferred)
+Info 34   [08:06:51.595] 	Files (153)
+
+Info 35   [08:06:51.595] -----------------------------------------------
+Info 36   [08:06:51.595] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 37   [08:06:51.595] 	Files (1)
+
+Info 38   [08:06:51.595] -----------------------------------------------
+Info 39   [08:06:51.604] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [08:06:51.615] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 10.633460998535156ms
+Info 41   [08:06:51.615] Different program with same set of files
+Info 42   [08:07:10.424] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 43   [08:07:10.445] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 20.917620986700058ms
+Info 44   [08:07:10.446] Different program with same set of files
+Info 45   [08:07:11.673] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 46   [08:07:11.735] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: true structureIsReused:: SafeModules Elapsed: 61.43503099679947ms
+Info 47   [08:07:11.735] Project '/dev/null/inferredProject1*' (Inferred)
+Info 48   [08:07:11.735] 	Files (154)
+
+Info 49   [08:07:11.735] -----------------------------------------------
+Info 50   [08:07:11.735] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 51   [08:07:11.735] 	Files (1)
+
+Info 52   [08:07:11.735] -----------------------------------------------
+Info 53   [08:07:12.383] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 54   [08:07:12.409] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 25.351792991161346ms
+Info 55   [08:07:12.409] Different program with same set of files
