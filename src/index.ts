@@ -37,6 +37,18 @@ app.post("/user", async (req: Request, res: Response):Promise<any> => {
     }
 });
 
+app.get("/users", async (req: Request, res: Response):Promise<any> => {
+    try {
+	const result = await db.select().from(usersTable);
+	return res.status(200).json({result})
+    }
+
+    catch (e) {
+	res.status(500).send("User could not be created")
+    }
+    
+})
+
 app.listen(port, () => {
   console.log(`[server]: Server is running at http://localhost:${port}`);
 });
